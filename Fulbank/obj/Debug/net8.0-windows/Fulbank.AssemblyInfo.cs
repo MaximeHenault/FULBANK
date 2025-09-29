@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fulbank")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93724e2d1ba6d5e38b69dd74eeec126fc45ad2b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b12c26b1b4ad043e8f00a058b2d89c9d859d8269")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fulbank")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fulbank")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
