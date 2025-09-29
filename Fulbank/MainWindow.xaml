@@ -8,9 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.Background>
-            <ImageBrush TileMode="None" ImageSource="/Capture d'écran 2025-09-02 095434.png"/>
+            <ImageBrush TileMode="None" ImageSource="/fulbank_login_page.png"/>
         </Grid.Background>
-        <ListBox x:Name="lstClients" HorizontalAlignment="Center" VerticalAlignment="Top" Width="780" Height="190"/>
+        <ListBox x:Name="lstClients" HorizontalAlignment="Left" VerticalAlignment="Center" Width="780" Height="190" Margin="46,0,0,0" SelectionChanged="lstClients_SelectionChanged"/>
         <Button Content="Charger Clients" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Click="BtnCharger_Click"/>
         <Button Content="Go à l'autre fenêtre" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Click="BtnChanger_Click" Margin="0,247,0,0"/>
     </Grid>

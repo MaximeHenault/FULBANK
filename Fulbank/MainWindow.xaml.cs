@@ -74,5 +74,10 @@ namespace FULBANK
             // Fermer l’ancienne (facultatif, sinon elle reste ouverte)
             this.Close();
         }
+
+        private void lstClients_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
