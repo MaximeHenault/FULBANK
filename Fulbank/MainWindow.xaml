@@ -7,7 +7,11 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <Grid.Background>
+            <ImageBrush TileMode="None" ImageSource="/Capture d'écran 2025-09-02 095434.png"/>
+        </Grid.Background>
         <ListBox x:Name="lstClients" HorizontalAlignment="Center" VerticalAlignment="Top" Width="780" Height="190"/>
-        <Button Content="Charger Clients" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Click="BtnCharger_Click" Margin="0,190,0,0"/>
+        <Button Content="Charger Clients" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Click="BtnCharger_Click"/>
+        <Button Content="Go à l'autre fenêtre" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Click="BtnChanger_Click" Margin="0,247,0,0"/>
     </Grid>
 </Window>
