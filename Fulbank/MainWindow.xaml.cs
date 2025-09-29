@@ -9,6 +9,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using Microsoft.Data.SqlClient;
+using Fulbank;
+
 
 namespace FULBANK
 {
@@ -59,6 +61,18 @@ namespace FULBANK
             {
                 MessageBox.Show("Erreur : " + ex.Message);
             }
+        }
+
+        private void BtnChanger_Click(object sender, RoutedEventArgs e)
+        {
+            // Créer la nouvelle fenêtre
+            Window1 w1 = new Window1();
+
+            // Afficher la fenêtre
+            w1.Show();
+
+            // Fermer l’ancienne (facultatif, sinon elle reste ouverte)
+            this.Close();
         }
     }
 }
