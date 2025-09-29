@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox x:Name="lstClients" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Height="200"/>
-        <Button Content="Charger Clients" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="250" Click="BtnCharger_Click"/>
+        <ListBox x:Name="lstClients" HorizontalAlignment="Center" VerticalAlignment="Top" Width="780" Height="190"/>
+        <Button Content="Charger Clients" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Click="BtnCharger_Click" Margin="0,190,0,0"/>
     </Grid>
 </Window>

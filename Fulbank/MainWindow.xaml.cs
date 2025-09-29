@@ -15,7 +15,7 @@ namespace FULBANK
     public partial class MainWindow : Window
     {
         // Chaîne de connexion à adapter
-        private string connectionString = "Server=localhost\\SQLEXPRESS;Database=FULBANK;User Id=fulbank_user;Password=MonSuperMotDePasse123!;Encrypt=False;";
+        private string connectionString = "Server=172.16.119.44;Database=FULBANK;User Id=fulbank_user;Password=MonSuperMotDePasse123!;Encrypt=False;";
 
         public MainWindow()
         {
