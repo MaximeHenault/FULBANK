@@ -61,7 +61,7 @@
         </Grid.Background>
             
             <!-- Couche sombre -->
-            <Rectangle x:Name="DarkOverlay" Fill="#AA000000" Opacity="0" Canvas.Left="0" Canvas.Top="0" Width="800" Height="450"/>
+            <Rectangle x:Name="DarkOverlay" Fill="#AA000000" Opacity="0" Canvas.Left="0" Canvas.Top="0" Width="800" Height="450" Margin="-468,10,468,-26"/>
 
             <!-- Bouton -->
 

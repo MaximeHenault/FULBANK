@@ -67,8 +67,6 @@ D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\refint\Fulbank.dll
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.pdb
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.genruntimeconfig.cache
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\ref\Fulbank.dll
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Window1.g.cs
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Window1.baml
 C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.exe
 C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.deps.json
 C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.runtimeconfig.json
@@ -142,3 +140,7 @@ C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-win
 C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\home.baml
 C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\home.g.cs
 C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\login.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\home.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\home.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\login.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\login.baml
