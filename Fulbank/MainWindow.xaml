@@ -10,7 +10,9 @@
         <Grid.Background>
             <ImageBrush TileMode="None" ImageSource="/fulbank_login_page.png"/>
         </Grid.Background>
-        <ListBox x:Name="lstClients" HorizontalAlignment="Left" VerticalAlignment="Center" Width="780" Height="190" Margin="46,0,0,0" SelectionChanged="lstClients_SelectionChanged"/>
+        <ListBox x:Name="lstClients" HorizontalAlignment="Center" VerticalAlignment="Top" Width="780" Height="190" Margin="0,67,0,0" SelectionChanged="lstClients_SelectionChanged">
+            <Button Content="home" Height="90" Width="194" Click="Button_Click"/>
+        </ListBox>
         <Button Content="Charger Clients" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Click="BtnCharger_Click"/>
         <Button Content="Go à l'autre fenêtre" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Click="BtnChanger_Click" Margin="0,247,0,0"/>
     </Grid>

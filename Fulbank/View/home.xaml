@@ -1,0 +1,120 @@
+﻿<Window x:Class="Fulbank.home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="home" Height="450" Width="800" Background="Black">
+
+    <Window.Resources>
+        <!-- Style bleu translucide avec apparition au survol -->
+        <Style x:Key="HoverButton" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Padding" Value="14,8"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Opacity" Value="0"/>
+            <!-- invisible par défaut -->
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid RenderTransformOrigin="0.5,0.5">
+                            <Grid.RenderTransform>
+                                <ScaleTransform x:Name="ScalePart" ScaleX="1" ScaleY="1"/>
+                            </Grid.RenderTransform>
+
+                            <Border x:Name="Bd"
+                                    CornerRadius="12"
+                                    Padding="{TemplateBinding Padding}"
+                                    BorderBrush="#66B0DFFF"
+                                    BorderThickness="2">
+                                <Border.Background>
+                                    <LinearGradientBrush StartPoint="0,0" EndPoint="0,1">
+                                        <GradientStop Color="#AA2196F3" Offset="0.0"/>
+                                        <GradientStop Color="#882196F3" Offset="1.0"/>
+                                    </LinearGradientBrush>
+                                </Border.Background>
+
+                                <ContentPresenter HorizontalAlignment="Center"
+                                                  VerticalAlignment="Center"/>
+                            </Border>
+
+                            <!-- Ombre -->
+                            <Border Background="Transparent" CornerRadius="12" IsHitTestVisible="False">
+                                <Border.Effect>
+                                    <DropShadowEffect x:Name="shadowEffect"
+                                                      Color="Black"
+                                                      BlurRadius="8"
+                                                      ShadowDepth="4"
+                                                      Opacity="0"/>
+                                </Border.Effect>
+                            </Border>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <!-- CONTENU -->
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="./assets/images/fulbank_home_page.jpg">
+            </ImageBrush>
+        </Grid.Background>
+            
+            <!-- Couche sombre -->
+            <Rectangle x:Name="DarkOverlay" Fill="#AA000000" Opacity="0" Canvas.Left="0" Canvas.Top="0" Width="800" Height="450"/>
+
+            <!-- Bouton -->
+
+        <Button x:Name="CryptoButton"
+        Style="{StaticResource HoverButton}"
+        Content="Crypto Wallet"
+        Width="156" Height="42"
+        HorizontalAlignment="Left"
+        VerticalAlignment="Top"
+        MouseEnter="Button_MouseEnter"
+        MouseLeave="Button_MouseLeave"
+        Panel.ZIndex="2"
+        Click="Button_Click" FontSize="16" Margin="594,189,0,0">
+                <Button.Triggers>
+                    <!-- Survol du bouton -->
+                    <EventTrigger RoutedEvent="Button.MouseEnter">
+                        <BeginStoryboard>
+                            <Storyboard>
+
+                                <DoubleAnimation Storyboard.TargetName="DarkOverlay"
+                                     Storyboard.TargetProperty="Opacity"
+                                     To="0.6" Duration="0:0:0.3"/>
+                                <DoubleAnimation Storyboard.TargetName="CryptoButton"
+                                     Storyboard.TargetProperty="Opacity"
+                                     To="1" Duration="0:0:0.3"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+
+                    <!-- Sortie du survol -->
+                    <EventTrigger RoutedEvent="Button.MouseLeave">
+                        <BeginStoryboard>
+                            <Storyboard>
+                                <DoubleAnimation Storyboard.TargetName="DarkOverlay"
+                                     Storyboard.TargetProperty="Opacity"
+                                     To="0" Duration="0:0:0.3"/>
+                                <DoubleAnimation Storyboard.TargetName="CryptoButton"
+                                     Storyboard.TargetProperty="Opacity"
+                                     To="0" Duration="0:0:0.3"/>
+                            </Storyboard>
+                        </BeginStoryboard>
+                    </EventTrigger>
+                </Button.Triggers>
+            </Button>
+
+
+        <!-- Image de fond -->
+        
+
+
+
+        <!-- Animation d'assombrissement liée au hover du bouton -->
+
+
+    </Grid>
+</Window>

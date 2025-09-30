@@ -66,7 +66,7 @@ namespace FULBANK
         private void BtnChanger_Click(object sender, RoutedEventArgs e)
         {
             // Créer la nouvelle fenêtre
-            Window1 w1 = new Window1();
+            login w1 = new login();
 
             // Afficher la fenêtre
             w1.Show();
@@ -78,6 +78,18 @@ namespace FULBANK
         private void lstClients_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
 
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            // Créer la nouvelle fenêtre
+            home w1 = new home();
+
+            // Afficher la fenêtre
+            w1.Show();
+
+            // Fermer l’ancienne (facultatif, sinon elle reste ouverte)
+            this.Close();
         }
     }
 }
