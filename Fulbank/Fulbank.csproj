@@ -22,4 +22,8 @@
     <Resource Include="fulbank_login_page.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="ModelViews\" />
+  </ItemGroup>
+
 </Project>

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\view\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:view\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\fulbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:fulbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -26,40 +26,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "login.xaml",
-              "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\View\\login.xaml",
-              "RelativeDocumentMoniker": "View\\login.xaml",
-              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\View\\login.xaml",
-              "RelativeToolTip": "View\\login.xaml",
+              "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\login.xaml",
+              "RelativeDocumentMoniker": "Views\\login.xaml",
+              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\login.xaml",
+              "RelativeToolTip": "Views\\login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-30T06:20:41.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "home.xaml",
-              "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\View\\home.xaml",
-              "RelativeDocumentMoniker": "View\\home.xaml",
-              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\View\\home.xaml*",
-              "RelativeToolTip": "View\\home.xaml*",
+              "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\home.xaml",
+              "RelativeDocumentMoniker": "Views\\home.xaml",
+              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\home.xaml",
+              "RelativeToolTip": "Views\\home.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-30T06:20:29.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Fulbank",
+              "DocumentIndex": 0,
+              "Title": "Fulbank.csproj",
               "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Fulbank.csproj",
               "RelativeDocumentMoniker": "Fulbank.csproj",
-              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Fulbank.csproj*",
-              "RelativeToolTip": "Fulbank.csproj*",
+              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Fulbank.csproj",
+              "RelativeToolTip": "Fulbank.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-09-30T06:15:59.284Z",
