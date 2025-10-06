@@ -30,6 +30,7 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 2,
               "Title": "Window1.xaml.cs",
               "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Window1.xaml.cs",
@@ -40,6 +41,27 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T08:42:47.897Z",
               "EditorCaption": ""
+=======
+              "DocumentIndex": 1,
+              "Title": "login.xaml",
+              "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\login.xaml",
+              "RelativeDocumentMoniker": "Views\\login.xaml",
+              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\login.xaml",
+              "RelativeToolTip": "Views\\login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-30T06:20:41.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "home.xaml",
+              "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\home.xaml",
+              "RelativeDocumentMoniker": "Views\\home.xaml",
+              "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\home.xaml",
+              "RelativeToolTip": "Views\\home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-30T06:20:29.622Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
@@ -62,6 +84,7 @@
               "ToolTip": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+<<<<<<< Updated upstream
               "WhenOpened": "2025-09-29T06:23:34.932Z",
               "EditorCaption": ""
             },
@@ -77,6 +100,9 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T06:23:33.361Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2025-09-30T06:14:29.873Z"
+>>>>>>> Stashed changes
             }
           ]
         }

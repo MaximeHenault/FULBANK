@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "DutDopqpKA8=",
+=======
+  "dgSpecHash": "eWnh6+Sc1ZA=",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\BERNIER\\source\\repos\\MaximeHenault\\FULBANK\\Fulbank\\Fulbank.csproj",
   "expectedPackageFiles": [
