@@ -156,6 +156,9 @@ D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.baml
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

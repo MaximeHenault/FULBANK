@@ -14,8 +14,13 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <None Remove="Capture d%27écran 2025-09-02 095434.png" />
     <None Remove="fulbank_home_page.jpg" />
+=======
+    <None Remove="assets\images\fulbank_home_page.jpg" />
+    <None Remove="assets\images\fulbank_login_page.png" />
+>>>>>>> Stashed changes
 =======
     <None Remove="assets\images\fulbank_home_page.jpg" />
     <None Remove="assets\images\fulbank_login_page.png" />
@@ -49,9 +54,12 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <Resource Include="Capture d'écran 2025-09-02 095434.png" />
     <Resource Include="fulbank_home_page.jpg" />
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -70,6 +78,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
