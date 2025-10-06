@@ -61,6 +61,9 @@
               "RelativeToolTip": "Views\\home.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-09-30T06:20:29.622Z"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
             },
             {
@@ -85,6 +88,7 @@
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "WhenOpened": "2025-09-29T06:23:34.932Z",
               "EditorCaption": ""
             },
@@ -100,6 +104,9 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T06:23:33.361Z",
               "EditorCaption": ""
+=======
+              "WhenOpened": "2025-09-30T06:14:29.873Z"
+>>>>>>> Stashed changes
 =======
               "WhenOpened": "2025-09-30T06:14:29.873Z"
 >>>>>>> Stashed changes

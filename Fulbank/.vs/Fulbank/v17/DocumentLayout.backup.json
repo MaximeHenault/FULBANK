@@ -4,6 +4,7 @@
   "Documents": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 =======
@@ -24,6 +25,20 @@
       "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+=======
+      "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\fulbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:fulbank.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:views\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|d:\\henault\\wpf\\fulbank\\fulbank\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AE4CE289-9515-4143-8178-0A7F718C325A}|Fulbank.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
 >>>>>>> Stashed changes
@@ -52,6 +67,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< Updated upstream
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\MainWindow.xaml",
@@ -75,6 +91,8 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T06:23:33.361Z",
 =======
+=======
+>>>>>>> Stashed changes
               "DocumentIndex": 2,
               "Title": "home.xaml",
               "DocumentMoniker": "D:\\HENAULT\\WPF\\FULBANK\\Fulbank\\Views\\home.xaml",
