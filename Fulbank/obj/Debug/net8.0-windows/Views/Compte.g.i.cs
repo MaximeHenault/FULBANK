@@ -1,10 +1,14 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Fulbank/obj/Debug/net8.0-windows/Views/Compte.g.i.cs
 ﻿#pragma checksum "..\..\..\..\Views\Compte.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "B41CC4129F382AFF19F3E1E6E9346F17875DD493"
 ========
 ﻿#pragma checksum "..\..\..\..\Views\login.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "3C5368048556B4F3C010F5E436749EFC9E3F21E6"
 >>>>>>>> Stashed changes:Fulbank/obj/Debug/net8.0-windows/Views/login.g.cs
+=======
+﻿#pragma checksum "..\..\..\..\Views\Compte.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "B41CC4129F382AFF19F3E1E6E9346F17875DD493"
+>>>>>>> Stashed changes
 =======
 ﻿#pragma checksum "..\..\..\..\Views\Compte.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "B41CC4129F382AFF19F3E1E6E9346F17875DD493"
 >>>>>>> Stashed changes
@@ -67,6 +71,7 @@ namespace Fulbank.Views {
             _contentLoaded = true;
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Fulbank/obj/Debug/net8.0-windows/Views/Compte.g.i.cs
             System.Uri resourceLocater = new System.Uri("/Fulbank;V1.0.0.0;component/views/compte.xaml", System.UriKind.Relative);
             
@@ -76,6 +81,11 @@ namespace Fulbank.Views {
             
             #line 1 "..\..\..\..\Views\login.xaml"
 >>>>>>>> Stashed changes:Fulbank/obj/Debug/net8.0-windows/Views/login.g.cs
+=======
+            System.Uri resourceLocater = new System.Uri("/Fulbank;V1.0.0.0;component/views/compte.xaml", System.UriKind.Relative);
+            
+            #line 1 "..\..\..\..\Views\Compte.xaml"
+>>>>>>> Stashed changes
 =======
             System.Uri resourceLocater = new System.Uri("/Fulbank;V1.0.0.0;component/views/compte.xaml", System.UriKind.Relative);
             

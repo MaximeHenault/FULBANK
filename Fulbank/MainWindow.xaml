@@ -14,10 +14,13 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <ListBox x:Name="lstClients" HorizontalAlignment="Left" VerticalAlignment="Center" Width="780" Height="190" Margin="46,0,0,0" SelectionChanged="lstClients_SelectionChanged"/>
         <Button Content="Charger Clients" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Click="BtnCharger_Click"/>
         <Button Content="Go à l'autre fenêtre" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Click="BtnChanger_Click" Margin="0,247,0,0"/>
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -40,6 +43,9 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
