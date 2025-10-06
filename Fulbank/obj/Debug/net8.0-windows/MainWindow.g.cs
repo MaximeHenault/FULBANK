@@ -1,7 +1,11 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ﻿#pragma checksum "..\..\..\MainWindow.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "9FF844DD18D6E589D00C7B49D1B25DBDBAC7E2A2"
+=======
+﻿#pragma checksum "..\..\..\MainWindow.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "32C79EEBF45A827E645B16B792EDD23AA2CEC146"
+>>>>>>> Stashed changes
 =======
 ﻿#pragma checksum "..\..\..\MainWindow.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "32C79EEBF45A827E645B16B792EDD23AA2CEC146"
 >>>>>>> Stashed changes
@@ -97,6 +101,7 @@ namespace FULBANK {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.BtnCharger_Click);
             
             #line default
@@ -106,6 +111,9 @@ namespace FULBANK {
             
             #line 15 "..\..\..\MainWindow.xaml"
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.BtnChanger_Click);
+=======
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.BtnTester_Click);
+>>>>>>> Stashed changes
 =======
             ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.BtnTester_Click);
 >>>>>>> Stashed changes

@@ -12,12 +12,21 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\App.xaml
 21940794329
 
 51046433292
 217-625684843
 MainWindow.xaml;Window1.xaml;
+=======
+D:\HENAULT\WPF\FULBANK\Fulbank\App.xaml
+4-1750118210
+
+46-2059077853
+217-1330275122
+MainWindow.xaml;Views\home.xaml;Views\login.xaml;Views\UtilisateurView.xaml;
+>>>>>>> Stashed changes
 =======
 D:\HENAULT\WPF\FULBANK\Fulbank\App.xaml
 4-1750118210
