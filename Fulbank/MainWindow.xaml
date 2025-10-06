@@ -12,10 +12,13 @@
         </Grid.Background>
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <ListBox x:Name="lstClients" HorizontalAlignment="Left" VerticalAlignment="Center" Width="780" Height="190" Margin="46,0,0,0" SelectionChanged="lstClients_SelectionChanged"/>
         <Button Content="Charger Clients" HorizontalAlignment="Center" VerticalAlignment="Center" Width="250" Click="BtnCharger_Click"/>
         <Button Content="Go à l'autre fenêtre" HorizontalAlignment="Center" VerticalAlignment="Top" Width="250" Click="BtnChanger_Click" Margin="0,247,0,0"/>
 =======
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         <Button Content="Wallet" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Click="BtnWallet_Click" Margin="10,388,0,0"/>
@@ -32,6 +35,9 @@
         <Button Content="CategorieCarte" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Click="BtnCategorieCarte_Click" Margin="10,91,0,0"/>
         <Button Content="Abonnement" HorizontalAlignment="Left" VerticalAlignment="Top" Width="250" Click="BtnAbonnement_Click" Margin="10,22,0,0"/>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes

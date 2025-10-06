@@ -33,8 +33,12 @@ namespace FULBANK
         {
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
             // Créer la nouvelle fenêtre
             Window1 w1 = new Window1();
+=======
+            UtilisateurView fenetreTest = new UtilisateurView();
+>>>>>>> Stashed changes
 =======
             UtilisateurView fenetreTest = new UtilisateurView();
 >>>>>>> Stashed changes
