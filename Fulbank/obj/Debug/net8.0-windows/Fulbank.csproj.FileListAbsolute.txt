@@ -152,4 +152,7 @@ D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\UtilisateurView.ba
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\UtilisateurView.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.baml
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes

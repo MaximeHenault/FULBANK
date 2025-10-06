@@ -1,5 +1,10 @@
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Fulbank/obj/Debug/net8.0-windows/Window1.g.cs
 ﻿#pragma checksum "..\..\..\Window1.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "BEC7937271B24E953FFB8451C5D4AC83D36C624A"
+=======
+<<<<<<<< Updated upstream:Fulbank/obj/Debug/net8.0-windows/Views/Compte.g.i.cs
+﻿#pragma checksum "..\..\..\..\Views\Compte.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "B41CC4129F382AFF19F3E1E6E9346F17875DD493"
+>>>>>>> Stashed changes
 ========
 ﻿#pragma checksum "..\..\..\..\Views\login.xaml" "{ff1816ec-aa5e-4d10-87f7-6f4963833460}" "3C5368048556B4F3C010F5E436749EFC9E3F21E6"
 >>>>>>>> Stashed changes:Fulbank/obj/Debug/net8.0-windows/Views/login.g.cs
@@ -13,7 +18,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< Updated upstream
 using Fulbank;
+=======
+using Fulbank.Views;
+>>>>>>> Stashed changes
 using System;
 using System.Diagnostics;
 using System.Windows;
@@ -37,6 +46,7 @@ using System.Windows.Shapes;
 using System.Windows.Shell;
 
 
+<<<<<<< Updated upstream
 namespace Fulbank {
     
     
@@ -44,6 +54,15 @@ namespace Fulbank {
     /// Window1
     /// </summary>
     public partial class Window1 : System.Windows.Window, System.Windows.Markup.IComponentConnector {
+=======
+namespace Fulbank.Views {
+    
+    
+    /// <summary>
+    /// Compte
+    /// </summary>
+    public partial class Compte : System.Windows.Window, System.Windows.Markup.IComponentConnector {
+>>>>>>> Stashed changes
         
         private bool _contentLoaded;
         
@@ -57,10 +76,17 @@ namespace Fulbank {
                 return;
             }
             _contentLoaded = true;
+<<<<<<< Updated upstream
 <<<<<<<< Updated upstream:Fulbank/obj/Debug/net8.0-windows/Window1.g.cs
             System.Uri resourceLocater = new System.Uri("/Fulbank;component/window1.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\Window1.xaml"
+=======
+<<<<<<<< Updated upstream:Fulbank/obj/Debug/net8.0-windows/Views/Compte.g.i.cs
+            System.Uri resourceLocater = new System.Uri("/Fulbank;V1.0.0.0;component/views/compte.xaml", System.UriKind.Relative);
+            
+            #line 1 "..\..\..\..\Views\Compte.xaml"
+>>>>>>> Stashed changes
 ========
             System.Uri resourceLocater = new System.Uri("/Fulbank;component/views/login.xaml", System.UriKind.Relative);
             

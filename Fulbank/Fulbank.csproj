@@ -10,8 +10,13 @@
 
   <ItemGroup>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <None Remove="Capture d%27écran 2025-09-02 095434.png" />
     <None Remove="fulbank_home_page.jpg" />
+=======
+    <None Remove="assets\images\fulbank_home_page.jpg" />
+    <None Remove="assets\images\fulbank_login_page.png" />
+>>>>>>> Stashed changes
 =======
     <None Remove="assets\images\fulbank_home_page.jpg" />
     <None Remove="assets\images\fulbank_login_page.png" />
@@ -25,15 +30,21 @@
 
   <ItemGroup>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <Resource Include="Capture d'écran 2025-09-02 095434.png" />
     <Resource Include="fulbank_home_page.jpg" />
 =======
+=======
+>>>>>>> Stashed changes
     <Resource Include="assets\images\fulbank_home_page.jpg">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
     <Resource Include="assets\images\fulbank_login_page.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     <Resource Include="fulbank_login_page.png" />
   </ItemGroup>

@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:Fulbank"
         mc:Ignorable="d"
 <<<<<<< Updated upstream:Fulbank/Window1.xaml
+<<<<<<< Updated upstream:Fulbank/Window1.xaml
         Title="Window1" Height="450" Width="800">
+=======
+        Title="login" Height="Auto" Width="Auto">
+>>>>>>> Stashed changes:Fulbank/Views/login.xaml
 =======
         Title="login" Height="Auto" Width="Auto">
 >>>>>>> Stashed changes:Fulbank/Views/login.xaml

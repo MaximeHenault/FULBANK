@@ -3,8 +3,11 @@
   <PropertyGroup />
   <ItemGroup>
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <Compile Update="Window1.xaml.cs">
 =======
+=======
+>>>>>>> Stashed changes
     <Compile Update="Views\AbonnementView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -34,6 +37,21 @@
     </Compile>
     <Compile Update="Views\login.xaml.cs">
 >>>>>>> Stashed changes
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\MonnaieView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\OperationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\PossedeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UtilisateurView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\WalletView.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Views\MonnaieView.xaml.cs">
