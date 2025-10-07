@@ -31,35 +31,10 @@ namespace FULBANK
 
         private void BtnChanger_Click(object sender, RoutedEventArgs e)
         {
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
             // Créer la nouvelle fenêtre
-            Window1 w1 = new Window1();
-=======
-            UtilisateurView fenetreTest = new UtilisateurView();
->>>>>>> Stashed changes
-=======
-            UtilisateurView fenetreTest = new UtilisateurView();
->>>>>>> Stashed changes
-=======
-            UtilisateurView fenetreTest = new UtilisateurView();
->>>>>>> Stashed changes
-=======
-            UtilisateurView fenetreTest = new UtilisateurView();
->>>>>>> Stashed changes
-=======
-            UtilisateurView fenetreTest = new UtilisateurView();
->>>>>>> Stashed changes
-=======
-            UtilisateurView fenetreTest = new UtilisateurView();
->>>>>>> Stashed changes
-
+            UtilisateurView fenetreUser = new UtilisateurView();
             // Afficher la fenêtre
-            fenetreTest.Show();
+            fenetreUser.Show();
 
             // Fermer l’ancienne (facultatif, sinon elle reste ouverte)
             this.Close();
@@ -69,8 +44,6 @@ namespace FULBANK
         {
 
         }
-<<<<<<< Updated upstream
-=======
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
@@ -83,14 +56,73 @@ namespace FULBANK
 
         private void BtnAbonnement_Click(object sender, RoutedEventArgs e)
         {
-            AbonnementView fenetreTest = new UtilisateurView();
+            AbonnementView fenetreAbonnement = new AbonnementView();
 
             // Afficher la fenêtre
-            fenetreTest.Show();
+            fenetreAbonnement.Show();
 
             // Fermer l’ancienne (facultatif, sinon elle reste ouverte)
             this.Close();
         }
->>>>>>> Stashed changes
+
+        private void BtnWallet_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnPossede_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnMonnaie_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCryptoWallet_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCourant_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCategorieCarte_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCarte_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCompte_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnCrypto_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnEpargne_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnOperation_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void BtnUtilisateur_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }

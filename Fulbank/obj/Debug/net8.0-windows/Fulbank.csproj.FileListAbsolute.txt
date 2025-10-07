@@ -50,9 +50,39 @@ D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win-x86\native\
 D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.csproj.AssemblyReference.cache
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\UtilisateurView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\AbonnementView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CarteView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CategorieCarteView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CompteView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CourantView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoWalletView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\EpargneView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\home.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\MonnaieView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\OperationView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\PossedeView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\UtilisateurView.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\WalletView.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\App.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank_MarkupCompile.cache
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank_MarkupCompile.lref
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\AbonnementView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CarteView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CategorieCarteView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CompteView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CourantView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoWalletView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\EpargneView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\home.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\MonnaieView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\OperationView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\PossedeView.baml
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\WalletView.baml
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.g.resources
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.GeneratedMSBuildEditorConfig.editorconfig
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.AssemblyInfoInputs.cache
@@ -65,106 +95,3 @@ D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\refint\Fulbank.dll
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.pdb
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.genruntimeconfig.cache
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\ref\Fulbank.dll
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Window1.g.cs
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Window1.baml
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.exe
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.deps.json
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.runtimeconfig.json
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Fulbank.pdb
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Azure.Core.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Azure.Identity.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\System.ClientModel.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\System.Memory.Data.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.csproj.AssemblyReference.cache
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Window1.g.cs
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank_MarkupCompile.cache
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank_MarkupCompile.lref
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Window1.baml
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.g.resources
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.AssemblyInfoInputs.cache
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.AssemblyInfo.cs
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.csproj.CoreCompileInputs.cache
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.sourcelink.json
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.csproj.Up2Date
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\refint\Fulbank.dll
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.pdb
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.genruntimeconfig.cache
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\ref\Fulbank.dll
-<<<<<<< Updated upstream
-=======
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\login.g.cs
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\home.baml
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\home.g.cs
-C:\Users\BERNIER\source\repos\MaximeHenault\FULBANK\Fulbank\obj\Debug\net8.0-windows\View\login.baml
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\home.baml
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\home.g.cs
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\login.g.cs
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\login.baml
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\UtilisateurView.baml
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\UtilisateurView.g.cs
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.g.cs
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\MainWindow.baml
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
