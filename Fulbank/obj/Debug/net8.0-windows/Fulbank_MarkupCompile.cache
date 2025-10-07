@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\HENAULT\WPF\FULBANK\Fulbank\App.xaml
-15-1494194631
+15-1451884
 
-56-67998325
-217-1330275122
-MainWindow.xaml;Views\AbonnementView.xaml;Views\CarteView.xaml;Views\CategorieCarteView.xaml;Views\CompteView.xaml;Views\CourantView.xaml;Views\CryptoView.xaml;Views\CryptoWalletView.xaml;Views\EpargneView.xaml;Views\home.xaml;Views\MonnaieView.xaml;Views\OperationView.xaml;Views\PossedeView.xaml;Views\UtilisateurView.xaml;Views\WalletView.xaml;
+581937415639
+221-1623333949
+MainWindow.xaml;Views\AbonnementView.xaml;Views\CarteView.xaml;Views\CategorieCarteView.xaml;Views\CompteView.xaml;Views\CourantView.xaml;Views\CryptoView.xaml;Views\CryptoWalletView.xaml;Views\EpargneView.xaml;Views\GeckoCoinTest.xaml;Views\MonnaieView.xaml;Views\OperationView.xaml;Views\PossedeView.xaml;Views\UtilisateurView.xaml;Views\WalletView.xaml;
 
 False
 

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fulbank.ModelViews;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,7 @@ namespace Fulbank.Views
         public CryptoView()
         {
             InitializeComponent();
+            DataContext = new CryptoViewModel();
         }
     }
 }

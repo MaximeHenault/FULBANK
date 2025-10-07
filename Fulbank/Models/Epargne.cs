@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fulbank.Models
 {
-    internal class Epargne
+    public class Epargne
     {
         public int IdCompte { get; set; }
         public decimal Taux { get; set; }

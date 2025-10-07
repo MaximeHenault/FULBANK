@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace Fulbank.Models
 {
-    internal class CryptoWallet
+    public class CryptoWallet
     {
         public int IdCryptoWallet { get; set; }
-        public int Quantite { get; set; }
+        public decimal Quantite { get; set; }
 
     }
 }

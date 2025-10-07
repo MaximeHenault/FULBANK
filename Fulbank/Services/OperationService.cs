@@ -32,9 +32,10 @@ namespace Fulbank.Services
                             IpDestinataire = reader.GetString(3),
                             IpSource = reader.GetString(4),
                             Statut = reader.GetString(5),
-                            IdCryptoWallet = reader.GetInt32(6),
-                            IdCryptoWallet_1 = reader.GetInt32(7),
-                            IdCompte_1 = reader.GetInt32(8),
+                            IdCryptoWallet = reader.IsDBNull(6) ? null : reader.GetInt32(6),
+                            IdCryptoWallet_1 = reader.IsDBNull(7) ? null : reader.GetInt32(7),
+                            IdCompte = reader.IsDBNull(8) ? null : reader.GetInt32(8),
+                            IdCompte_1 = reader.IsDBNull(9) ? null : reader.GetInt32(9)
                         });
                     }
                 }

@@ -6,7 +6,12 @@
         xmlns:local="clr-namespace:Fulbank.Views"
         mc:Ignorable="d"
         Title="AbonnementView" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Margin="10">
+        <DataGrid ItemsSource="{Binding Abonnements}" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="IdAbonnement" Binding="{Binding IdAbonnement}" Width="50"/>
+                <DataGridTextColumn Header="Libelle" Binding="{Binding Libelle}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>

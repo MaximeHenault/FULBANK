@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fulbank.Models
 {
-    internal class CategorieCarte
+    public class CategorieCarte
     {
         public int IdCategorie { get; set; }
         public string Libelle { get; set; }

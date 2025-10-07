@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fulbank.Models
 {
-    internal class Possede
+    public class Possede
     {
         public int IdUtilisateur { get; set; }
         public int IdCompte { get; set; }

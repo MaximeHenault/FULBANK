@@ -60,7 +60,6 @@ D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CourantView.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoView.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoWalletView.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\EpargneView.g.cs
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\home.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\MonnaieView.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\OperationView.g.cs
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\PossedeView.g.cs
@@ -78,7 +77,6 @@ D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CourantView.baml
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoView.baml
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\CryptoWalletView.baml
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\EpargneView.baml
-D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\home.baml
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\MonnaieView.baml
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\OperationView.baml
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\PossedeView.baml
@@ -95,3 +93,10 @@ D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\refint\Fulbank.dll
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.pdb
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Fulbank.genruntimeconfig.cache
 D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\ref\Fulbank.dll
+D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\CoinGeckoAPI.dll
+D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\RestSharp.dll
+D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\HENAULT\WPF\FULBANK\Fulbank\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Runtime.Caching.dll
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\GeckoCoinTest.g.cs
+D:\HENAULT\WPF\FULBANK\Fulbank\obj\Debug\net8.0-windows\Views\GeckoCoinTest.baml

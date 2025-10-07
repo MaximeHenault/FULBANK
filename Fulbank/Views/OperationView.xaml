@@ -6,7 +6,19 @@
         xmlns:local="clr-namespace:Fulbank.Views"
         mc:Ignorable="d"
         Title="OperationView" Height="450" Width="800">
-    <Grid>
-        
+    <Grid Margin="10">
+        <DataGrid ItemsSource="{Binding Operations}" AutoGenerateColumns="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="IdOperation" Binding="{Binding IdOperation}" Width="*"/>
+                <DataGridTextColumn Header="DateOperation" Binding="{Binding DateOperation}" Width="*"/>
+                <DataGridTextColumn Header="IpDestinataire" Binding="{Binding IpDestinataire}" Width="*"/>
+                <DataGridTextColumn Header="IpSource" Binding="{Binding IpSource}" Width="*"/>
+                <DataGridTextColumn Header="Statut" Binding="{Binding Statut}" Width="*"/>
+                <DataGridTextColumn Header="IdCryptoWallet" Binding="{Binding IdCryptoWallet}" Width="*"/>
+                <DataGridTextColumn Header="IdCryptoWallet_1" Binding="{Binding IdCryptoWallet_1}" Width="*"/>
+                <DataGridTextColumn Header="IdCompte" Binding="{Binding IdCompte}" Width="*"/>
+                <DataGridTextColumn Header="IdCompte_1" Binding="{Binding IdCompte_1}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>

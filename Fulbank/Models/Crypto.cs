@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fulbank.Models
 {
-    internal class Crypto
+    public class Crypto
     {
         public int IdCrypto { get; set; }
         public string Libelle { get; set; }

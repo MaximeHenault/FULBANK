@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fulbank.ModelViews;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,13 +16,14 @@ using System.Windows.Shapes;
 namespace Fulbank.Views
 {
     /// <summary>
-    /// Logique d'interaction pour Compte.xaml
+    /// Logique d'interaction pour CompteView.xaml
     /// </summary>
-    public partial class Compte : Window
+    public partial class CompteView : Window
     {
-        public Compte()
+        public CompteView()
         {
             InitializeComponent();
+            DataContext = new CompteViewModel();
         }
     }
 }

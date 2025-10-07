@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Fulbank.Models
 {
-    internal class Operation
+    public class Operation
     {
         public int IdOperation { get; set; }
         public DateTime DateOperation { get; set; }
@@ -14,9 +14,9 @@ namespace Fulbank.Models
         public string IpDestinataire { get; set; }
         public string IpSource { get; set; }
         public string Statut { get; set; }
-        public int IdCryptoWallet { get; set; }
-        public int IdCryptoWallet_1 { get; set; }
-        public int IdCompte { get; set; }
-        public int IdCompte_1 { get; set; }
+        public int? IdCryptoWallet { get; set; }
+        public int? IdCryptoWallet_1 { get; set; }
+        public int? IdCompte { get; set; }
+        public int? IdCompte_1 { get; set; }
     }
 }

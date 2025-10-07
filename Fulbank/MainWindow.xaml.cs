@@ -31,13 +31,7 @@ namespace FULBANK
 
         private void BtnChanger_Click(object sender, RoutedEventArgs e)
         {
-            // Créer la nouvelle fenêtre
-            UtilisateurView fenetreUser = new UtilisateurView();
-            // Afficher la fenêtre
-            fenetreUser.Show();
-
-            // Fermer l’ancienne (facultatif, sinon elle reste ouverte)
-            this.Close();
+         
         }
 
         private void lstClients_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -67,62 +61,98 @@ namespace FULBANK
 
         private void BtnWallet_Click(object sender, RoutedEventArgs e)
         {
+            WalletView fenetreWallet = new WalletView();
+            fenetreWallet.Show();
 
+            this.Close();
         }
 
         private void BtnPossede_Click(object sender, RoutedEventArgs e)
         {
+            PossedeView fenetrePossede = new PossedeView();
+            fenetrePossede.Show();
 
+            this.Close();
         }
 
         private void BtnMonnaie_Click(object sender, RoutedEventArgs e)
         {
+            MonnaieView fenetreMonnaie = new MonnaieView();
+            fenetreMonnaie.Show();
 
+            this.Close();
         }
 
         private void BtnCryptoWallet_Click(object sender, RoutedEventArgs e)
         {
+            CryptoWalletView fenetreCryptoWallet = new CryptoWalletView();
+            fenetreCryptoWallet.Show();
 
+            this.Close();
         }
 
         private void BtnCourant_Click(object sender, RoutedEventArgs e)
         {
+            CourantView fenetreCourant = new CourantView();
+            fenetreCourant.Show();
 
+            this.Close();
         }
 
         private void BtnCategorieCarte_Click(object sender, RoutedEventArgs e)
         {
+            CategorieCarteView fenetreCategorieCarte = new CategorieCarteView();
+            fenetreCategorieCarte.Show();
 
+            this.Close();
         }
 
         private void BtnCarte_Click(object sender, RoutedEventArgs e)
         {
+            CarteView fenetreCarte = new CarteView();
+            fenetreCarte.Show();
 
+            this.Close();
         }
 
         private void BtnCompte_Click(object sender, RoutedEventArgs e)
         {
+            CompteView fenetreCompte = new CompteView();
+            fenetreCompte.Show();
 
+            this.Close();
         }
 
         private void BtnCrypto_Click(object sender, RoutedEventArgs e)
         {
+            CryptoView fenetreCrypto = new CryptoView();
+            fenetreCrypto.Show();
 
+            this.Close();
         }
 
         private void BtnEpargne_Click(object sender, RoutedEventArgs e)
         {
+            EpargneView fenetreEpargne = new EpargneView();
+            fenetreEpargne.Show();
 
+            this.Close();
         }
 
         private void BtnOperation_Click(object sender, RoutedEventArgs e)
         {
+            OperationView fenetreOperation = new OperationView();
+            fenetreOperation.Show();
 
+            this.Close();
         }
 
         private void BtnUtilisateur_Click(object sender, RoutedEventArgs e)
         {
+            UtilisateurView fenetreUser = new UtilisateurView();
+            fenetreUser.Show();
 
+            this.Close();
         }
     }
 }

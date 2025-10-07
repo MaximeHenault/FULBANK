@@ -10,9 +10,9 @@ namespace Fulbank.Services
 {
     internal class AbonnementService
     {
-        private string connectionString = "Server=172.16.119.44;Database=FULBANK2;User Id=Fulbank_client;Password=MonSuperMotDePasse123!;Encrypt=False;";
+        private string connectionString = "Server=172.16.119.44;Database=FULBANK;User Id=fulbank_user;Password=MonSuperMotDePasse123!;Encrypt=False;";
 
-        public List<Abonnement> GetAbonnementS()
+        public List<Abonnement> GetAbonnements()
         {
             List<Abonnement> abonnements = new();
             using (SqlConnection conn = new SqlConnection(connectionString))

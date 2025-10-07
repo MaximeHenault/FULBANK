@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Fulbank.ModelViews;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,13 +16,14 @@ using System.Windows.Shapes;
 namespace Fulbank.Views
 {
     /// <summary>
-    /// Logique d'interaction pour Courant.xaml
+    /// Logique d'interaction pour CourantView.xaml
     /// </summary>
-    public partial class Courant : Window
+    public partial class CourantView : Window
     {
-        public Courant()
+        public CourantView()
         {
             InitializeComponent();
+            DataContext = new CourantViewModel();
         }
     }
 }

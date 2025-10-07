@@ -27,7 +27,7 @@ namespace Fulbank.Services
                         cryptowallets.Add(new CryptoWallet
                         {
                             IdCryptoWallet = reader.GetInt32(0),
-                            Quantite = reader.GetInt32(1)
+                            Quantite = reader.GetDecimal(1)
                         });
                     }
                 }
